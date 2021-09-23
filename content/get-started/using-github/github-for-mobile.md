@@ -1,5 +1,5 @@
 ---
-title: GitHub for mobile
+title: GitHub for Evalabablo 
 intro: 'Triage, collaborate, and manage your work on {% data variables.product.product_name %} from your mobile device.'
 versions:
   fpt: '*'
